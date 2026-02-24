@@ -308,7 +308,7 @@ Priorities: High (must have) - `* * *`, Medium (nice to have) - `* *`, Low (unli
 * View upcoming loans
 * Bulk command adding
 
-## **Use case: Reserve equipment on a specified date/time**
+**Use case: Reserve equipment on a specified date/time**
 
 **MSS**
 
@@ -334,7 +334,7 @@ Priorities: High (must have) - `* * *`, Medium (nice to have) - `* *`, Low (unli
   * 3a1. System shows an error message
   * Use case ends
 
-## **Use case: Reserve room on a specified date/time**
+**Use case: Reserve room on a specified date/time**
 
 **MSS**
 
@@ -361,7 +361,7 @@ Priorities: High (must have) - `* * *`, Medium (nice to have) - `* *`, Low (unli
   * 4a2. User re-enters correct information
   * Resume from step 4
 
-## **Use case: Issue an item to a student**
+**Use case: Issue an item to a student**
 
 **MSS**
 
@@ -385,7 +385,7 @@ Priorities: High (must have) - `* * *`, Medium (nice to have) - `* *`, Low (unli
   * 3a1. System shows an error message
   * Use case ends
 
-## **Use case: Remove an item from a student**
+**Use case: Remove an item from a student**
 
 **MSS**
 
@@ -408,7 +408,7 @@ Priorities: High (must have) - `* * *`, Medium (nice to have) - `* *`, Low (unli
   * 4a1. System shows an error message
   * Use case ends
 
-## **Use case: Create alias for equipment**
+**Use case: Create alias for equipment**
 
 **MSS**
 
@@ -431,7 +431,7 @@ Priorities: High (must have) - `* * *`, Medium (nice to have) - `* *`, Low (unli
   * 3a1. System shows an error message
   * Use case ends
 
-## **Use case: View all commands**
+**Use case: View all commands**
 
 **MSS**
 
