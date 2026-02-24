@@ -9,44 +9,45 @@ You can reach us at the email `seer[at]comp.nus.edu.sg`
 
 ## Project team
 
-### John Doe
+### Cheh Jun Xian
 
-<img src="images/johndoe.png" width="200px">
+<img src="images/junxiancheh.png" width="200px">
 
-[[homepage](http://www.comp.nus.edu.sg/~damithch)]
-[[github](https://github.com/johndoe)]
-[[portfolio](team/johndoe.md)]
+[[github](https://github.com/junxiancheh)]
 
-* Role: Project Advisor
-
-### Jane Doe
-
-<img src="images/johndoe.png" width="200px">
-
-[[github](http://github.com/johndoe)]
-[[portfolio](team/johndoe.md)]
-
-* Role: Team Lead
-* Responsibilities: UI
+* Role: Developer
+* Responsibility: Testing
 
 ### Liao Yantong
 
 <img src="images/liaoyantong.png" width="200px">
 
-[[github](http://github.com/LiaoYantong)] 
+[[github](http://github.com/LiaoYantong)]
+
 
 * Role: Developer
 * Responsibilities: Code quality
 
-### Jean Doe
 
-<img src="images/johndoe.png" width="200px">
+### Lim Zi En
 
-[[github](http://github.com/johndoe)]
-[[portfolio](team/johndoe.md)]
+<img src="images/0nlytheend.png" width="200px">
+
+[[homepage](https://github.com/AY2526S2-CS2103T-T14-4)]
+[[github](https://github.com/0Nly)]
 
 * Role: Developer
-* Responsibilities: Dev Ops + Threading
+* Responsibilities: Docs
+
+
+### Ng Zhe, Javier
+
+<img src="images/ngzhejavier.png" width="200px">
+
+[[github](https://github.com/javnz1)]
+
+* Role: Developer
+* Responsibilities: Testing
 
 ### James Doe
 
