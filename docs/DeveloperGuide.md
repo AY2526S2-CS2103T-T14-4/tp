@@ -310,7 +310,7 @@ Priorities: High (must have) - `* * *`, Medium (nice to have) - `* *`, Low (unli
 4. System applies the tag and displays a success message.
    Use case ends.
 
-Extensions:<br>
+Extensions:
 * 3a. System detects that the equipment/room ID is invalid.
   * 3a1. System displays a failure message.
   * 3a2. User re-enters a valid equipment/room ID and tag.
@@ -321,7 +321,7 @@ Extensions:<br>
   * 3b1. System displays a duplicate tag failure message.
   * Use case ends.
 
-Use case: UC2 - Untag Equipment/Room
+Use case: Untag Equipment/Room
 MSS:
 1. User chooses to untag an equipment or room.
 2. User enters the equipment/room ID and tag.
@@ -340,7 +340,7 @@ Extensions:
   * Use case ends.
 
 
-Use case: UC3 - View Help Command
+Use case: View Help Command
 MSS:
 1. User chooses to view help.
 2. System displays a list of all available commands with short descriptions.
@@ -356,7 +356,7 @@ Extensions:
     * 1a1a1. System displays a failure message indicating the command was not found.
   * Use case ends.
 
-Use case: UC4 - Filter by Tag
+Use case: Filter by Tag
 MSS:
 1. User chooses to filter by tag.
 2. System requests for the type and tag to filter by.
